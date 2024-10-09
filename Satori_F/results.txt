@@ -1,0 +1,151 @@
+Input: You look great.
+Response: dobrze wyglądasz.
+
+Input: Hold it!
+Response: trzymaj ją.
+
+Input: I bowed.
+Response: ukłoniłem się.
+
+Input: I'm unhappy.
+Response: jestem nieszczęśliwy.
+
+Input: I love games.
+Response: uwielbiam gry.
+
+Input: Someone called.
+Response: ktoś dzwonił.
+
+Input: I'm lost.
+Response: jestem bezradny.
+
+Input: He is bankrupt.
+Response: on jest bankrutem.
+
+Input: Step outside.
+Response: wyjdź na zewnątrz.
+
+Input: Are you alive?
+Response: żyjesz?
+
+Input: Tom paused.
+Response: tom przerwał.
+
+Input: I love my city.
+Response: kocham swoje miasto.
+
+Input: Come outside.
+Response: wyjdź na zewnątrz.
+
+Input: I may be wrong.
+Response: mogę się mylić.
+
+Input: It's easy.
+Response: to łatwe.
+
+Input: Stop eating.
+Response: przestańcie jeść.
+
+Input: Tom is wrong.
+Response: tom jest w błędzie.
+
+Input: I can fly.
+Response: potrafię latać.
+
+Input: Pipe down!
+Response: pozamykać się!
+
+Input: I cooked dinner.
+Response: zrobiłem kolację.
+
+Input: I brought wine.
+Response: przyniosłem wino.
+
+Input: She looked sad.
+Response: wyglądała smutno.
+
+Input: I feel lonely.
+Response: czuję się samotny.
+
+Input: Am I boring you?
+Response: czy dobrze w porządku?
+
+Input: You'll see.
+Response: zobaczysz.
+
+Input: I suppose so.
+Response: tak przypuszczam.
+
+Input: What is it for?
+Response: po to jest?
+
+Input: I fled.
+Response: uciekłam.
+
+Input: We know it now.
+Response: teraz to wiemy.
+
+Input: Read this.
+Response: przeczytaj to.
+
+Input: I'll eat fish.
+Response: zjem rybę.
+
+Input: It smells bad.
+Response: to źle pachnie.
+
+Input: Can you wait?
+Response: możesz poczekać?
+
+Input: Bring your wife.
+Response: przynieś mnie lubi.
+
+Input: Choose one.
+Response: wybierz jeden.
+
+Input: Tom needs hope.
+Response: tom potrzebuje nadziei.
+
+Input: Tom shouted.
+Response: tom krzyknął.
+
+Input: Don't kill me.
+Response: nie zabijaj mnie.
+
+Input: Take me to Tom.
+Response: zabierz mnie do toma.
+
+Input: Look there.
+Response: spójrz tam.
+
+Input: Tom is walking.
+Response: tom idzie.
+
+Input: That will do.
+Response: to wystarczy.
+
+Input: I'm organized.
+Response: jestem zorganizowany.
+
+Input: Tom knits.
+Response: tom robi na drutach.
+
+Input: Hold still.
+Response: nie wierć się.
+
+Input: Their eyes met.
+Response: ich oczy spotkały się.
+
+Input: Boil some water.
+Response: ugotuj się mocno.
+
+Input: I am a shy boy.
+Response: nieśmiały ze mnie chłopiec.
+
+Input: I'll be nice.
+Response: będę miły.
+
+Input: Let me try it.
+Response: pozwól mi przymierzyć.
+
+bleu: 0.7897586496428217
